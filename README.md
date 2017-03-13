@@ -1,7 +1,7 @@
-LogRhythm Threat Research
-Remote File Extraction SmartResponse
-Matt Willems | @MattWillems | matt.willems@logrhythm.com
-v0.1 -- April, 2016
+		LogRhythm Threat Research
+		KillWindowsProcess SmartResponse
+		Matt Willems | @MattWillems | matt.willems@logrhythm.com
+		v0.1 -- April, 2016
 
 # SRP-KillWindowsProcess
 SmartResponse plugin to terminate a process on a Windows host.
